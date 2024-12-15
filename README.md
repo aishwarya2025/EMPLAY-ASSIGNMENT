@@ -18,5 +18,4 @@ torch: Required as the backend for Hugging Face models.
 json: To format and save the extracted data as JSON files.
 # To install the necessary dependencies, run:
 
-bash
 pip install pdfplumber beautifulsoup4 transformers torch
